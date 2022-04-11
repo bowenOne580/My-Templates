@@ -1,1 +1,4 @@
-## 算法世界纷繁复杂，常常不知从和学起，临考时也不知道如何复习，这个模板库旨在整理知识点，为算法学习做一个索引
+# Not Just A Template
+The importance to learn new things and review old things is becoming more awareful these days, so I decided to create a Table to remind me.
+
+You can find (this)[] in the future.
