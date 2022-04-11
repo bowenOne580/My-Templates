@@ -1,6 +1,17 @@
 # Where are we?
+
 Between blue and purple.
+
 # Who are we?
+
 OIers.
+
 # What to do in the future?
+
 Follow this.
+
+| Item      | Publish Date | Update Date    | Current Status         | NG Time      |
+| --------- | ------------ | -------------- | ---------------------- | ------------ |
+| Lucas定理 | 2022/4/11    | No updates yet | First Time. NG Planned | In two weeks |
+|           |              |                |                        |              |
+
